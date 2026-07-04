@@ -3,7 +3,6 @@
 ### 🖥️ Hardware Specifications
 This lab was built with reclaimed hardware.
 
-| Component | Specification |
 | :--- | :--- |
 | **Device Model** | STB HG680p |
 | **Architecture** | ARM |
