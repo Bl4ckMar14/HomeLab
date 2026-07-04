@@ -1,14 +1,12 @@
 #My Home Lab : Infrastructure and Hosting
 
-##Spesification of My Mini Server
-
+### 🖥️ Hardware Specifications
 This lab was built with reclaimed hardware.
 
-|================================|
-|**Hardware**     : STB-HG680p   |
-|**Architecture** : ARM          |
-|**RAM**          : 2Gb          |
-|**ROM**          : 8Gb          |
-|**Storage**      : HDD 256Gb    |
-|================================|
-
+| Component | Specification |
+| :--- | :--- |
+| **Device Model** | STB HG680p |
+| **Architecture** | ARM |
+| **RAM** | 2 GB |
+| **ROM** | 8 GB |
+| **External Storage** | HDD 256 GB |
