@@ -10,3 +10,4 @@ This lab was built with reclaimed hardware.
 | **RAM** | 2 GB |
 | **ROM** | 8 GB |
 | **External Storage** | HDD 256 GB |
+|  |  |
