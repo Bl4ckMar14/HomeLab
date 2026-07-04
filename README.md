@@ -70,7 +70,7 @@ sudo apt-get update && sudo apt-get install cloudflared
 **2. Authenticating & Running the Service:**
 
 ```bash
-sudo cloudflared service install <YOUR_CLOUDFLARE_TOKEN_HERE>
+sudo cloudflared service install <CLOUDFLARE_TOKEN>
 sudo systemctl start cloudflared
 
 ```
