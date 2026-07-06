@@ -18,6 +18,14 @@ Instead of buying expensive enterprise equipment, I optimized what I had. This s
 
 ---
 
+## 🗺️ Network Topology
+
+Below is a simple diagram illustrating how my home lab is structured, from the local network setup to how it securely connects to the outside world.
+
+![Home Lab Topology](img/topology.png)
+
+---
+
 ## 🛠️ Base OS & Provisioning
 
 To turn the Android TV box into a server, I replaced the stock Android OS with a lightweight Linux distribution.
